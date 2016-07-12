@@ -5,7 +5,7 @@
   "author": "Guillaume Ricard <guillaume.ricard@mail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "gulp",
+    "start": "node index.js",
     "test": "wdio test/wdio.conf.js"
   },
   "devDependencies": {
