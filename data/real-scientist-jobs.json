@@ -1,0 +1,54 @@
+[
+
+{
+    "title": "My team and I try to make sure that nanoparticles are safe in our body  We realise experiments to reach this goal. At first, we acclimate the nanoparticles, then, we have to discover where they go in our body, and finally, we look at their cell conversation. My job is very scientific and it is necessary to be interested in the subject to do it. Moreover, as only a few people are doing this job, all the experiments we do are things people have never seen before.",
+    "choices": ["Nanoparticle safety biologist","Nanoparticle security scientist","Nanoparticle security biologist","Nanoparticle safety scientist"],
+    "answer": 3
+},
+{
+    "title": "My job is based on studying insects. I learn how cockroaches have managed to survive for more than 250 million years. Also, I have many important tasks such as the study of the classification, life cycle, distribution, physiology, behavior, ecology and population dynamics of insects. In this job you can work with beneficial insects like honeybees, silkworms, ladybird beetles and parasitic wasps. Who am I?",
+    "choices": ["Aquatic biologist","Entomologist","Ethnobotanist","Medical modeler"],
+    "answer": 1
+},
+{
+    "title": "I work with national labs and I help people in the community who still don't have electricity. For example, I work on houses that create their own electricity. I work with different energies like the sun or the wind. Who am I?",
+    "choices": ["Wind project manager","Nuclear dismantling project manager","Agent of development of renewable energies","Renewable energy scientist"],
+    "answer": 3
+},
+{
+    "title": "My job is to make a means of transportation using solar energy and make it as fast as possible. For that, I need something called photovoltaic cells. Without that, this transport can't move. The cells catch the sun rays and convert them in electricity. When I was at school, the teachers proposed to make a new project: the Borealis 2. The project consisted in making a solar race car. I loved making it and now that's my job. Who am I?",
+    "choices": ["Game designer","Solar race car engineer","Cow vet","Criminalist"],
+    "answer": 1
+},
+{
+    "title": "I work at the MIT (Massachusetts Institute of Technology) and I’m a researcher. I study the sound waves and I try to control them. I invented a machine which guides sound waves. Who am I? ",
+    "choices": ["DJ","Audio engineer","Mixer","Musician"],
+    "answer": 1
+},
+{
+    "title": "I work for Para-performance. My job is to design objects to help humans when they fly. I invented the Skytrac. Skytrac is a board with little wings. With the Skytrac, jumpers can control their trajectory with the displacement of their body when they are in the sky.",
+    "choices": ["Pilot","Aeronautical engineer","Astronaut","Sky scientist"],
+    "answer": 1
+},
+{
+    "title": "I create helmets. To do that, I make some sketches, I model the helmets on a computer and I choose the helmet color. I study how the helmets survive a crash, how it withstands snow, the sun, etc.  Who am I?",
+    "choices": ["Designer","Helmeter","Neurologist","Metaphysico-theologo-cosmonigologist"],
+    "answer": 0
+},
+{
+    "title": "To do my job it is necessary to be interested in natural catastrophes and in construction. In my job, I test structures which I create to verify my ideas. One of my projects is to make buildings more resistant by using several materials. Who am I?",
+    "choices": ["Cow vet","Biologist","Earthquake scientist","Sky scientist"],
+    "answer": 2
+},
+{
+    "title": "I study mussels in university. Mussels have sticky amazing and very interesting properties .They can stick themselves almost anything: Rocks, water, and even on each other. These creatures are very simple to work on. I make many experiences in my laboratory to create glue substance, I try to mimic what the nature has created. I produce solutions where the glue is imitated thanks to mussels.  My job involves concretely to reproduce glue of mussels thanks to chemistry. Who am I?",
+    "choices": ["Mussel-farmer","Glue-ologist","Wildlife researcher","Veterinary"],
+    "answer": 1
+},
+{
+    "title": "I’m responsible for helping people taking care of the health of animals.  Cows are remarkable creatures. They’ve been part of human culture for thousands of years. There are cows everywhere except Antarctica. My job is to examine their eyes, their ears and their skin. Who am I?",
+    "choices": ["Surgeon","Cow vet","Animal seller","Neurologist"],
+    "answer": 1
+}
+
+]

@@ -1,0 +1,127 @@
+[
+        {
+            "title": "Who is the president of France in 2016?",
+            "choices": ["Manuel Valls", "François Hollande", "Nicolas Sarkozy", "Marine Le Pen"],
+            "answer": 1
+        },
+        {
+            "title": "Who is the Prime Minister of France in 2016?",
+            "choices": ["Manuel Valls", "François Hollande", "Nicolas Sarkozy", "Marine Le Pen"],
+            "answer": 0
+        },
+        {
+            "title": "Who sings the song “Allumer le feu”?",
+            "choices": ["Claude François","Francis Lalane","Johnny Haliday","Michael Jackson"],
+            "answer": 2
+        },
+        {
+            "title": "Who is the main actor of “the Artist”?",
+            "choices": ["Omar Sy","Michel Hozanavicius","Dany Boon","Jean Dujardin"],
+            "answer": 3
+        },
+        {
+            "title": "Who is the actress who played Edith Piaf (a French singer)?",
+            "choices": ["Marion Cotillard","Mimi Mathy","Mélanie Laurent","Jennifer Lawrence"],
+            "answer": 0
+        },
+        {
+            "title": "Who is the main actor of ”Untouchable”?",
+            "choices": ["François Cluzet", "Marion Cotillard", "Guillaume Canet", "Romain Faubert"],
+            "answer": 0
+        },
+        {
+            "title": "What is the river which crosses Paris?",
+            "choices": ["The Seine","The Rhône","The Loire","The Rhin"],
+            "answer": 0
+        },
+        {
+            "title": "What is the capital of France?",
+            "choices": ["Marseille","Paris","Lyon","Bordeaux"],
+            "answer": 1
+        },
+        {
+            "title": "In which region is Paris?",
+            "choices": ["Île-de-France","Normandy","Brittany","Aquitaine"],
+            "answer": 0
+        },
+        {
+            "title": "In which region is Nice situated?",
+            "choices": ["Aquitaine","Île-de-France","Corsica","Provence Alpes Côte d'Azur"],
+            "answer": 3
+        },
+        {
+            "title": "What specialty is a French one?",
+            "choices": ["Hamburger","Snails","Scrambled eggs","Sushi"],
+            "answer": 1
+        },
+        {
+            "title": "What do French people sometimes eat for breakfast?",
+            "choices": ["eggs","bacon","croissant","rice"],
+            "answer": 2
+        },
+        {
+            "title": "What is the best French football team?",
+            "choices": ["Paris Saint-Germain","RC Lens","Racing 92","OGC Nice"],
+            "answer": 0
+        },
+        {
+            "title": "Who is the world champion of judo?",
+            "choices": ["Tony Parker","Yannick Noah","Sébastien Loeb","Teddy Riner"],
+            "answer": 3
+        },
+        {
+            "title": "Who is the French player in NBA?",
+            "choices": ["Tony Parker","Rudy Gobert","Joffrey Lauvergne","Nicolas Batum"],
+            "answer": 3
+        },
+        {
+            "title": "Who is currently (in 2016) the coach of the French football team?",
+            "choices": ["Zinedine Zidane","Didier Deschamps","Laurent Blanc","Rudy Garcia"],
+            "answer": 1
+        },
+        {
+            "title": "What’s Louis XIV’s nickname?",
+            "choices": ["the Divine King","the King of Heaven","the Sun King","Louis the Great"],
+            "answer": 2
+        },
+        {
+            "title": "When was the French revolution?",
+            "choices": ["1657","1789","1799","1817"],
+            "answer": 1
+        },
+        {
+            "title": "Who led the French resistance from London during the Second World War?",
+            "choices": ["Winston Churchill","Staline","Charles de Gaulle","John Kennedy"],
+            "answer": 2
+        },
+        {
+            "title": "In which country (other than France) can you hear French speakers?",
+            "choices": ["Quebec","Indonesia","Australia","Russia"],
+            "answer": 0
+        },
+        {
+            "title": "How many inhabitants live in France in 2016?",
+            "choices": ["66 millions","78 millions","94 millions","123 millions"],
+            "answer": 0
+        },
+        {
+            "title": "What is the name of the famous cathedral in Paris?",
+            "choices": ["Notre-Dame de Paris","Notre-Dame de Chartes","Notre-Dame de Reims","Saint-Étienne de Sens"],
+            "answer": 0
+        },
+        {
+            "title": "What monument is located at the top of the Avenue des Champs-Elysées?",
+            "choices": ["The Arc de Triomphe","The Eiffel Tower","The Louvre","The Luxembourg Palace"],
+            "answer": 0
+        },
+        {
+            "title": "Where does the French president live?",
+            "choices": ["In the White House","The Palais de l'Élysée","The Louvre","The Eiffel Tower"],
+            "answer": 1
+        },
+        {
+            "title": "What is the famous palace that was built during Louis XIV’s reign?",
+            "choices": ["The Louvre","Versailles","The Eiffel Tower","Chambord"],
+            "answer": 1
+        }
+]

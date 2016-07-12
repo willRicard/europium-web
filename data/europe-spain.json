@@ -1,0 +1,29 @@
+[
+
+{
+    "title": "It is a Spanish river which has its source in the Montes Universales in the mountain ranges of the north westernmost end of the Sistema Ibérico. It discharges into the Medterranean sea near the city of Valencia. Which river is it?",
+    "choices": ["Ebro","Turia","Guadalquivir","Miño"],
+    "answer": 1
+},
+{
+    "title": "He was born in Barcelona. He began playing basketball as a center with his school team, he began playing for Barcelona's junior team. In 2001 he was named Player. After entering the NBA draft, he was selected third overall in the first round in the 2001 NBA draft by the Atlanta Hawks",
+    "choices": ["Marc Gasol","Juan Carlos Navarro","Pau Gasol","Ricky Rubio"],
+    "answer": 2
+},
+{
+    "title": "This monument is a cathedral located in Galicia, Spain. Its architectural style is Romanesque, Gothic and Baroque. It was build in 1211. It has historically been a place of pilgrimage on the way of St. James, since the Early Middle Ages. What is the name of this important monument here in Spain?",
+    "choices": ["Sagrada Familia","Catedral de Burgos","Catedral de Santiago de Compostela","Catedral de Toledo"],
+    "answer": 2
+},
+{
+    "title": "I'm a Spanish humoristic actor and I do monologues. I'm the winner of the Goyas awards to the best revelation actor 2014 for the film “Ocho apellidos vascos”",
+    "choices": ["Mario Casas","Dani Rovira","Antonio Banderas","Pablo Alborán"],
+    "answer": 1
+},
+{
+    "title": "I'm a language, I'm from Valencia, and 2 million people speak me. I am governed by the rules of the Valencian Academy of Language. The schools teach me, I am a subject. What language am I?",
+    "choices": ["Euskera", "Valencian", "Gallego", "Catalán"],
+    "answer": 1
+}
+
+]

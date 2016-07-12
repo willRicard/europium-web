@@ -1,0 +1,44 @@
+[
+
+{
+    "title": "1. I can be measured by a metre, a ruler, a micrometer... 2. My SI unit is the metre. It was officially adopted as an international measurement unit in 1875, and it is one of the oldest units of measurement. 3. My symbol is L but it can be D as well. What am I?",
+    "answer": "The length"
+},
+{
+    "title": "1. No instrument to measure me exists because I am dependent on the chemical species that are studied. 2. My unit is the mole, written mol. 3. I am used in different formulas, in which my symbol is n. I am linked with the Avogadro’s constant, which is Na = 6.02 × 10²³ mol⁻¹, thanks to the formula n=N/Na with N the number of particles and Na the Avogadro’s constant. This constant can be considered as the number of particles that make up a mole. What am I?",
+    "answer": "The number of atoms"
+},
+{
+    "title": "1. I can be measured by different instruments like an anemometer when I am related to the wind, radars when related to cars or cars meters. 2. My unit is the m/s (meter per second) but in everyday life, everyone talks about km/h (kilometer per hour). 3. I’m equal to d/t (distance traveled divided by time). What am I?",
+    "answer": "The speed"
+},
+{
+    "title": "1. I am linked with a periodic phenomenon. I am the number of occurrences of the repeating event per second. 2. There is an instrument which can measure me directly but for the electric signals, the oscilloscope is often used to measure the time period first. Then you can give my value with the following formula: 1/T where T is the time period in seconds 3. My unit in the international system is the Hertz. What am I?",
+    "answer": "The frequency"
+},
+{
+    "title": "1. I was discovered by Isaac Newton in 1726 with an apple. I am linked with gravity. 2. My value is equal to m times g where m represents the mass of body in kilogram and g represents the gravity intensity in newton per kilogram. 3. My International unit is the Newton. My symbol is P. What quantity am I?",
+    "answer": "The weight"
+},
+{
+    "title": "1. I am measured by a thermometer. 2. I am linked to the velocity of particles. 3. My SI unit is the Kelvin, denoted K. The most common ones are Celsius, denoted °C, and Fahrenheit, denoted °F. The zero point of celsius is 0°C and is defined by the freezing point of water. On the Fahrenheit scale, water freezes at 32 °F. Absolute zero is when I’m the coldest and it is denoted as 0 K on the Kelvin scale, −273.15 °C on the Celsius scale, and −459.67 °F on the Fahrenheit scale. What am I?",
+    "answer": "The temperature"
+},
+{
+    "title": "1. I am a flow of electric charges. In electric circuits these charges are often carried by moving electrons in a wire. 2. My value is equal to Q/t, where Q is the electric charge transferred to the surface of the wire and t is the time. 3. The SI unit for measuring me is Ampere. I can be measured using an Ammeter. What am I?",
+    "answer": "The electric current"
+},
+{
+    "title": "1. I am related to a non-polarized dipole. I can be measured by an ohmmeter. 2. To determine my value, one can use the Ohm’s law named after the German physicist Georg Ohm. This law states that my value is equal to U/I where U is the voltage and I is the current across a conductor. 3. Last but not least, my unit is the Ohm. What am I?",
+    "answer": "The resistance"
+},
+{
+    "title": "1. I’m a geometric quantity. I express the extent of a two-dimensional figure or shape on a surface. In some cases a planimetre is used to measure me. 2. In physics I connect the pressure and the pressing force with the formula: P=F/A (P is the pressure, F is the force and A it’s me). 3. In the international system of units, my standard unit is the square metre (written m²). What am I?",
+    "answer": "The area"
+},
+{
+    "title": "1. I can’t be measured by an instrument. 2. Generally, I am expressed in mol/L (mole per liter). 3. I am the quantity of matter of a chemical species: gas, fluid or solid dissolved in a liter of solution only. I am equal to n/V when n (the quantity of matter) is in mol and V (the volume of a solution) is in Liter. What am I?",
+    "answer": "The molar concentration"
+}
+
+]
