@@ -46,4 +46,3 @@ export function watch() {
 
 const build = gulp.parallel(bundle, serve, watch);
 export default build;
-//module.exports.default = build;

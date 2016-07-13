@@ -35,9 +35,6 @@ footer {
     display: inline-block;
     vertical-align: middle;
 }
-.board picture img {
-    height: 100%;
-}
 .notify {
 	display: none;
 	z-index: 2;
@@ -64,22 +61,26 @@ footer {
     cursor: default;
 }
 .europium-modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    max-width: 50%;
     padding: 15px;
     background-color: white;
     border: solid 1px black;
     border-bottom: solid 2px black;
     text-align: center;
-    transform: translate(0,-600px);*/
+    font-size: large;
+    opacity: 1;
+    transform: translate(-50%,-50%);
+    will-change: transform, opacity;
 }
 .europium-modal-enter {
-	transform: translate(0);
+    transform: translate(-50%,300%);
 }
-.europium-modal-enter.europium-modal-enter-active {
-    transform: translate(0,-600px);
+.europium-modal-enter-active {
+    transform: translate(-50%,-50%);
     transition: all 0.5s;
-}
-.europium-modal-leave {
-    opacity: 1;
 }
 .europium-modal-leave.europium-modal-leave-active {
 	opacity: 0;

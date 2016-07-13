@@ -1,4 +1,5 @@
 import React, { Component, PropTypes } from 'react';
+import * as WebAnimations from 'web-animations-js';
 
 const DURATION	= 500;		//ms
 const TIMEOUT	= 10000;	//ms
@@ -28,7 +29,7 @@ class Notify extends Component {
 		}
 		if (this.mounted) {
 			this.previousMessage = this.props.message;
-	
+
 			var $notify = document.querySelector('.notify'),
 				anim;
 			if (!this.open) {
@@ -72,4 +73,3 @@ class Notify extends Component {
 }
 
 export default Notify;
-

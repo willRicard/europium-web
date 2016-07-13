@@ -27,8 +27,8 @@ class Player extends Component {
 			direction.x = (id & 1) ? -1 : 1;
 			direction.y = (id < 3) ? -1 : 1;
 
-			var x = baseX + this.props.ring * direction.x * 24,
-				y = baseY + this.props.ring * direction.y * 24;
+			var x = baseX + this.props.ring * direction.x * (board.width / 24),
+				y = baseY + this.props.ring * direction.y * (board.width / 24);
 
 			$player.style.transform = 'translate(' + x + 'px,' + y + 'px)';
 		};
@@ -47,8 +47,8 @@ class Player extends Component {
 				direction.x = (id & 1) ? -1 : 1;
 				direction.y = (id < 3) ? -1 : 1;
 
-				var x = baseX + this.props.ring * direction.x * 24,
-					y = baseY + this.props.ring * direction.y * 24;
+				var x = baseX + this.props.ring * direction.x * (board.width / 24),
+					y = baseY + this.props.ring * direction.y * (board.width / 24);
 
 			this.anim = $player.animate([
 				{transform: $player.style.transform},

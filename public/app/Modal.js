@@ -45,13 +45,13 @@ class Modal extends Component {
 		}
     }
     render() {
-		var child = <div key="0"></div>;
+		var child;
         if (this.props.isOpen) {
             if (this.props.results) {
                 child = <Leaderboard results={this.props.results} />;
             } else if (!this.props.question) {//No question supplied: pick a category
                 var categories = [];
-                for (var name of Object.keys(this.state.categories)) {
+                for (var name in this.state.categories) {
                     var c = this.state.categories[name];
                     categories.push(
                         <a className="category" onClick={this.handlePick} key={name} style={{color: c.color}}>{name}</a>
@@ -74,7 +74,7 @@ class Modal extends Component {
 						return <a className="answer" onClick={this.handleAnswer} key={index}>{choice}</a>;
 	                });
 	                child = (
-	                    <div key="0">
+	                    <div>
 	                        <p>{this.props.question.title}</p>
 	                        <hr/>
 	                        <p>{choices}</p>
@@ -82,7 +82,7 @@ class Modal extends Component {
                 	);
 				} else {
 					child = (
-						<form key="0" onSubmit={this.handleAnswer}>
+						<form onSubmit={this.handleAnswer}>
 							<p>{this.props.question.title}</p>
 							<hr/>
                             <div className="input-group">
@@ -99,7 +99,7 @@ class Modal extends Component {
                 <ReactCSSTransitionGroup transitionName="europium-modal"
                     transitionEnterTimeout={500}
                     transitionLeaveTimeout={500}>
-                    <div key="0" className="europium-modal">
+                    <div className="europium-modal">
                         {child}
                     </div>
                 </ReactCSSTransitionGroup>
@@ -109,7 +109,6 @@ class Modal extends Component {
                 <ReactCSSTransitionGroup transitionName="europium-modal"
                     transitionEnterTimeout={500}
                     transitionLeaveTimeout={500}>
-                    {child}
                 </ReactCSSTransitionGroup>
             );
         }

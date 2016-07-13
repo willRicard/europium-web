@@ -25,8 +25,8 @@ class Menu extends Component {
 				<div className="col-sm-1 col-md-2 col-lg-3"></div>
             	<form onSubmit={this.play} className="menu col-sm-10 col-md-8 col-lg-6">
 					<picture>
-						<source media="(min-width: 367px)" srcSet="img/logo-337.jpg"/>
-						<source media="(min-width: 630px)" srcSet="img/logo-600.jpg"/>
+						<source media="(min-height: 950px)" srcSet="img/logo-560.jpg"/>
+						<source media="(min-width: 450px)" srcSet="img/logo-337.jpg"/>
 						<img src="img/logo-285.jpg"/>
 					</picture>
 					<hr/>
