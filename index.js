@@ -35,7 +35,6 @@ io.on('connection', (socket) => {
 			}
 		}
 		if (players.length < MAX_PLAYERS) {
-			console.log('Hello, ' + name);
 			for (var p of players) {
 				socket.emit('player', p.name);
 			}

@@ -1,0 +1,54 @@
+[
+
+{
+    "title": "The President of Portugal is…",
+    "choices": ["Cristiano Ronaldo", "Marcelo Rebelo de Sousa", "Pedro Passos Coelho", "António Costa"],
+    "answer": 1
+},
+{
+    "title": "The population of Portugal is about…",
+    "choices": ["20,813,834", "5,813,834", "10,813,834", "40,813,834"],
+    "answer": 4
+},
+{
+    "title": "How many hours of sunshine there is in Portugal per year?",
+    "choices": ["1000h", "3000h", "500h", "2000h"],
+    "answer": 1
+},
+{
+    "title": "What is the name of the capital of Portugal?",
+    "choices": ["Lisbon", "Porto", "Faro", "Coimbra"],
+    "answer": 0
+},
+{
+    "title": "When was monarchy abolished in Portugal?",
+    "choices": ["1822", "1910", "1974", "1920"],
+    "answer": 1
+},
+{
+    "title": "Which is the longest bridge in Europe?",
+    "choices": ["Vasco da Gama (Portugal)", "London bridge", "Golden Gate Bridge", "Lupu Bridge"],
+    "answer": 0
+},
+{
+    "title": "Where is Cristiano Ronaldo from?",
+    "choices": ["Madeira", "Açores", "Alentejo", "Algarve"],
+    "answer": 0
+},
+{
+    "title": "It became the kingdom of Portugal in 1139, and Portugal's borders have barely changed since…",
+    "choices": ["1297", "1970", "1910", "1889"],
+    "answer": 0
+},
+{
+    "title": "How many countries have Portuguese as the official language?",
+    "choices": ["2", "1", "8", "4"],
+    "answer": 2
+},
+{
+    "title": "The biggest wave ever surfed was in Portugal. In…",
+    "choices": ["Nazaré", "Albufeira", "Lisbon", "Cape Roca"],
+    "answer": 0
+}
+
+]
