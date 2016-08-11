@@ -61,8 +61,84 @@
     "answer": "Aristotle"
 },
 {
-    "title": "1. I was born in 1856 in Smiljan, AustroHungarian Empire and I died in 1943, New York (USA) 2. I studied physics, mechanical engineering and electrical engineering. 3.   I received the award of gold Elliot Cresson (1894) for the alternating electric currents of high frequency and the award of gold John Scott (1934) for the invention of the magnetic rotating field and for the induction motor.  4.  I invented the wireless transfer of electric power, the alternating current, the direct energy weapons, the hatches or logical doors, the radio, the fluorescent lamp... 5.  The airport of Belgrade takes my name.",
+    "title": "1. I was born in 1856 in Smiljan, Austro-Hungarian Empire and I died in 1943, New York (USA) 2. I studied physics, mechanical engineering and electrical engineering. 3.   I received the award of gold Elliot Cresson (1894) for the alternating electric currents of high frequency and the award of gold John Scott (1934) for the invention of the magnetic rotating field and for the induction motor.  4.  I invented the wireless transfer of electric power, the alternating current, the direct energy weapons, the hatches or logical doors, the radio, the fluorescent lamp... 5.  The airport of Belgrade takes my name.",
     "answer": "Nicola Tesla"
+},
+{
+    "title": "1. I am a scientific born in the 1856 in England, Manchester. I died in Cambridge, England in 1940. 2. I invented the spectrometer. 3. One of my best students was Rutherford 4. I won the Nobel Prize of Physic in 1906, because I discovered the electron. 5. I considered that atom was composed of electrons. The negative electrons occupied a region of space that itself was a uniform positive charge",
+    "answer": "Thomson"
+},
+{
+    "title": "1. I was born in c. 287 BC in Greece. 2. I was an Ancient Greek mathematician, physicist, engineer, inventor and astronomer. 3. I am especially important for my discovery of the relation between the surface and volume of a sphere and it circumscribing cylinder. 4. I invented a method for determining the volume of an object with an irregular shape. 5. The exclamation 'Eureka!' ( I found it) is famously attributed to me. I was stepped into a bath and noticed that the water level rose whereupon I understood that the volume of water displaced must be equal to the volume of the part of my body I had submerged.",
+    "answer": "Archimedes"
+},
+{
+    "title": "1. Was born on April 15, 1452, in Vinci (Italy). 2. I was curious person so I studied the laws of science and nature. 3. I worked as a painter, sculptor, architect, inventor and military engineer. But I am most famous for my work as an artist. 4. I was a leading artist and intellectual of the Italian Renaissance 5. My famous paint is The Mona Lisa (Gioconda).",
+    "answer": "Leonardo da Vinci"
+},
+{
+    "title": "I was born in Italy in 1901, and died in Chicago in 1953. I have been called the \"architect of the nuclear age\", and I created the world's first nuclear reactor. I was one of the few physicists to excel both theoretically and experimentally. My first major contribution was to statistical mechanics. Some of the most important laws in particle physics has named after me. After bombarding thorium and uranium with slow neutrons, I concluded that I had created new elements; although I was awarded the Nobel Prize for this discovery, the new elements were subsequently revealed to be fission products.",
+    "answer": "Fermi"
+},
+{
+    "title": "I was born in Warsaw (Poland), on 7 November 1867, and I’m a polish physicist and chemist. I conducted pioneering research on radioactivity, and then I developed the theory of radioactivity. I discovered two chemical elements: Polonium and Radium. I won the Nobel Prize in Physics in 1903, and the Nobel Prize in Chemistry in 1911. I died in a sanatorium in France in 1934, due to aplastic anemia brought on by exposure to radiation.",
+    "answer": "Marie Curie"
+},
+{
+    "title": "I was born in Copenhagen, Denmark, on 7 October 1885 and I died on 18 November 1992 at the age of 77. I received the Nobel Prize in Physics in 1922 for my contribution to understanding atomic structure and quantum theory. I proposed that energy levels of electrons are discrete and that the electrons revolve in stable orbits around the atomic nucleus but can jump from one energy level (or orbit) to another. My three papers, which later became famous as “the trilogy”, were published in Philosophical Magazine. I founded the Institute of Theoretical Physics at the University of Copenhagen.",
+    "answer": "Niels Bohr"
+},
+{
+    "title": "I was born in the city of Weil in Germany in 1571, soon became a student of theology and mathematics at the University of Tubingen. I died in 1630. I realized that the planets move like the tip of a pencil, that is, revolve in elliptical orbits around the sun, placed in one focus of the ellipse I was also in charge of geometry, music and theology and shortly before my death I composed a Somnium, dedicated to a science fiction journey between the inhabitants and the phenomena of the lunar world. I was the first astronomer of the 16th century to realize that the orbits of the planets are not circular, but elliptical. The script most innovative I wrote in Prague was the Astronomiae pars optica, dedicated geometric optics and telescopes.",
+    "answer": "Kepler"
+},
+{
+    "title": "I was an English naturalist and geologist born in England in 1809. I've travelled around the world on my ship, the “Beagle”, to doing natural research. I've contributed to the evolutionary theory with my own scientist theory that I called natural selection. I've studied the Galapagos giant tortoise during my second expedition with Beagle. I died on 19 April 1882, my funeral was attended by thousands of people, including scientists and philosophers.",
+    "answer": "Charles Darwin"
+},
+{
+    "title": "1. He is regarded as the father of modern philosophy for defining a starting point for existence, “I think; therefore I am.” 2. He was born on March 31, 1596, in La-Haye, France. 3. He was extensively educated, first at a Jesuit college at age 8, then earning a law degree at 22. 4. He believed that all truths were ultimately linked. 5. He sought to uncover the meaning of the natural world with a rational approach, through science and mathematics.",
+    "answer": "René Descartes"
+},
+{
+    "title": "1. Born in Ulm, Württemberg, Germany in 1879. 2. In 1921, he won the Nobel Prize for physics for his explanation of the photoelectric effect. 3. He immigrated to the U.S after being targeted by the Nazis. 4. He is generally considered the most influential physicist of the 20th century. 5. He died on April 18, 1955, in Princeton, New Jersey.",
+    "answer": "Albert Einstein"
+},
+{
+    "title": "1. He was born in the Elswick district of Newcastle upon Tyne, England. 2. He is a British theoretical physicist, emeritus professor at the University of Edinburgh. 3. In the 1960s, he proposed that broken symmetry in electroweak theory could explain the origin of mass of elementary particles in  general and of the W and Z bosons in particular. 4. He has been honoured with a number of awards in recognition of his work, including the 1981 Hughes Medal from the Royal Society. 5. On October 8th, 2013, he won the Nobel Prize in Physics.",
+    "answer": "Peter Higgs"
+},
+{
+    "title": "1. He was born in Turin, Italy, on August 9th, 1776. 2. He is best known for his hypothesis that equal volumes of different gases contain an equal number of molecules. 3. His hypothesis was rejected by other scientists. It only gained acceptance after his death. 4.In 1796, when he was only 20, he was awarded a doctorate in canon law and began to practice as an ecclesiastical lawyer. 5. He gradually lost interest in legal matters. He found science was much more intellectually stimulating.",
+    "answer": "Lorenzo Avogadro"
+},
+{
+    "title": "1. He was born into a well-to-do family in the city of Lyon, France, on January 20, 1775. 2. When he was five years old, his family moved to a country estate near the village of Poleymieux about six miles (10 km) from Lyon. 3. At age 13, he began a serious study of mathematics using books in his father’s library. 4. He made the revolutionary discovery that a wire carrying electric current can attract or repel another wire next to it that’s also carrying electric current. 5. He also proposed the existence of a particle we now recognize as the electron.",
+    "answer": "André Ampère"
+},
+{
+    "title": "1.He was born in Kiel, Germany, on April 23, 1858.
+2. His father was Professor of Constitutional Law in the University of Kiel, and later in Göttingen.
+3. He studied at the Universities of Munich and Berlin, where his teachers included Kirchhoff and Helmholtz.
+4. His work on the quantum theory, as it came to be known, was published in the Annalen der Physik.
+5. He won the Nobel Prize in Physics in 1918.",
+    "answer": "Max Planck"
+},
+{
+    "title": "1. He was one of the great astronomers of the 16th century. 2. He was born on 19 February 1473 in the Polish town of Torun. 3. In 1491 Copernicus went to the University of Cracow. 4.His theory was published in 1543. The book was called On the Revolutions of the Heavenly Bodies. It was dedicated to Pope Paul III. 5. He died on May 24th, 1543.",
+    "answer": "Nicolaus Copernicus"
+},
+{
+    "title": "1. Born on June 13, 1831, in Edinburgh, Scotland. 2. He studied at the University of Cambridge. 3. In 1873 he published the book A Treatise on Electricity and Magnetism, which further expanded on his research. 4. Other scientific contributions included producing the first color photograph, taken in 1861, and creating structural engineering calculations for bridge maintenance. 5. He died in England on November 5, 1879.",
+    "answer": "James Maxwell"
+},
+{
+    "title": "1. He is best known for his work as a naturalist, developing a theory of evolution to explain biological change. 2. He was born in Shrewsbury, England, on February 12th, 1809. 3. In 1831, he embarked on a five-year survey voyage around the world on the HMS Beagle. 4. His studies of specimens around the globe led him to formulate his theory of evolution and his views on the process of natural selection. 5. In 1859, he published On the Origin of Species. He died on April 19, 1882, in London.",
+    "answer": "Charles Darwin"
+},
+{
+    "title": "1. He was born on April 25th, 1900 in Vienna. 2. He participated in the creation of quantum mechanics. 3. He obtained his doctor's degree in 1921 and spent a year at the University of Göttingen as assistant to Max Born and a further year with Niels Bohr at Copenhagen. 4. The outbreak of World War II and the possible threat of Nazi persecution led him to the U.S., but he returned to Europe in 1946. 5. He won the Nobel Prize in Physics 1945",
+    "answer": "Wolfgang Pauli"
 }
 
 ]
