@@ -69,7 +69,7 @@ class Board extends Component {
 					ring++;
 				}
 
-				var nMessage = name + ' was ' + ((correct) ? 'right' : 'wrong') + '! The answer was: ' + actualAnswer + ".";
+				var nMessage = name + ' was ' + ((correct) ? 'right' : 'wrong') + '! The answer was: ' + actualAnswer.replace(/(\(|\)|\?)/g, "") + ".";
 
 				var props = player.props,
 				player_id = props.id;
