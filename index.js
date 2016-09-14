@@ -50,8 +50,16 @@ io.on('connection', (socket) => {
 						questions.pickQuestion(category).then((q) => {
 							player.sendQuestion(q).then(() => {
 								player.getAnswer().then((answer) => {
-									var correct = (answer === q.answer);
-									player.sendCorrect(correct).then(() => {
+									var correct = false,
+										actualAnswer = '';
+									if (typeof q.answer === 'string') {
+										correct = new RegExp(q.answer, 'i').test(answer);
+										actualAnswer = q.answer;
+									} else {
+										correct = (answer === q.answer);
+										actualAnswer = q.choices[q.answer];
+									}
+									player.sendCorrect(correct, actualAnswer).then(() => {
 										if (!gameOver()) {
 											if (i == 3) {
 												i = -1;

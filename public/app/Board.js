@@ -51,6 +51,7 @@ class Board extends Component {
 		socket.on('answer', (data) => {
 			var name = data.name,
 				correct = data.correct,
+				actualAnswer = data.actual,
 				players = this.state.players,
 				player;
 			for (var i = 0, l = players.length; i < l; i++) {
@@ -68,7 +69,7 @@ class Board extends Component {
 					ring++;
 				}
 
-				var nMessage = name + ' was ' + ((correct) ? 'right' : 'wrong') + '!';
+				var nMessage = name + ' was ' + ((correct) ? 'right' : 'wrong') + '! The answer was: ' + actualAnswer + ".";
 
 				var props = player.props,
 				player_id = props.id;
