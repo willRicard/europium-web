@@ -16,6 +16,8 @@
     "socket.io": "^1.4.8"
   },
   "devDependencies": {
+    "babel-plugin-transform-react-constant-elements": "^6.9.1",
+    "babel-plugin-transform-react-inline-elements": "^6.8.0",
     "babel-preset-es2015": "^6.9.0",
     "babel-preset-react": "^6.11.1",
     "babelify": "^7.3.0",
@@ -30,6 +32,17 @@
     "web-animations-js": "^2.2.1"
   },
   "babel": {
-    "presets": [ "es2015", "react" ]
+    "presets": [
+      "es2015",
+      "react"
+    ],
+    "env": {
+      "production": {
+        "plugins": [
+          "transform-react-constant-elements",
+          "transform-react-inline-elements"
+        ]
+      }
+    }
   }
 }
