@@ -9,7 +9,7 @@
     "answer": "Sulphur"
 },
 {
-    "title": "I am a chemical element, my atomic number is 29. I’m naturally present in the Earth’s crust as a brown or orange metal, I am the oldest metal used by humans. I am in the same family as gold and silver. When I’m an ion dissolved in water, the solution is blue. I am necessary for life’s development I am used as a construction material, for alloys, sculptures, dishes or electric wires. You can find me in Chile, Zambia or Indonesia deposits. What am I?",
+    "title": "I am a chemical element, my atomic number is 29. I'm naturally present in the Earth’s crust as a brown or orange metal, I am the oldest metal used by humans. I am in the same family as gold and silver. When I’m an ion dissolved in water, the solution is blue. I am necessary for life's development I am used as a construction material, for alloys, sculptures, dishes or electric wires. You can find me in Chile, Zambia or Indonesia deposits. What am I?",
     "answer": "Copper"
 },
 {
@@ -29,7 +29,7 @@
     "answer": "Gold"
 },
 {
-    "title": "My atomic number is 8 and I am a nonmetal. I was discovered in 1777 by Antoine Lavoisier. By 1777, Lavoisier was ready to propose a new theory of combustion. You can find me everywhere on Earth, because I am in the air and in the water. I don’t have any colour. Without me man can’t live. What am I?",
+    "title": "My atomic number is 8 and I am a nonmetal. I was discovered in 1777 by Antoine Lavoisier. By 1777, Lavoisier was ready to propose a new theory of combustion. You can find me everywhere on Earth, because I am in the air and in the water. I don't have any colour. Without me man you can't live. What am I?",
     "answer": "Oxygen"
 },
 {
@@ -37,8 +37,100 @@
     "answer": "Argon"
 },
 {
-    "title": "My atomic number is 78 and I am a metal. I was discovered in 1735 by Antonio de Ulloa. I am not corrosive, I’m malleable, precious, rare and my colour is white-grey. I am used to make jewels and catalytic converters. I melt at 1768°C. My symbol in the Mendeleiv classification is Pt. My density is 10.5. What am I?",
+    "title": "My atomic number is 78 and I am a metal. I was discovered in 1735 by Antonio de Ulloa. I am not corrosive, I'm malleable, precious, rare and my colour is white-grey. I am used to make jewels and catalytic converters. I melt at 1768°C. My symbol in the Mendeleiv classification is Pt. My density is 10.5. What am I?",
     "answer": "Platinum"
+},
+{
+	"title": "It is not clearly falls within any group of the periodic table, often it is being placed in group 1. His atomic number is 1 and it has only one electron and one proton. It is the most abundant chemical element in the universe.",
+	"answer": "Hydrogen"
+},
+{
+	"title": "It's a metal element with atomic mass 12. Its's an alkaline earth metal. His electronic configuration is 1s2 2s2 2p6 3s2. Its ion is essential for all living cells. It is used as an alloying element and magnesium alloy use in aerospace is increasing due its properties. When burning in air, this element produces a brilliantwhite light so it was used for subject illumination in the early days of photography. The metal itself was first produced by Sir Humphry Davy in England in 1808.",
+	"answer": "Magnesium"
+},
+{
+	"title": "Its colour are black-brown, and it has 5 protons. It was was isolated by Sir Humphry Davy and by Joseph Louis and Louis Jacques. In 1808 Davy discovered that electric current sent through a solution of borates produced a brown precipitate on one of the electrodes. It is one of the elements called metalloids or semimetals. It belongs to group 13 in the periodic table. It is used in fiberglass.",
+	"answer": "Boron"
+},
+{
+	"title": "This element was discovered by greeks and romans. It has an atomic number of 30, and an atomic mass of 65. It is also in the block d (Transition metal). It's a metal and it's used in alloys, batteries and metallurgy. It is usually a grayish / blueish colour. It is a solid substance at room temperature.",
+	"answer": "Zinc"
+},
+{
+	"title": "It has a small trend to take part in chemical reactions. it's colorless, odorless and shows a chemical very low reactivity in normal conditions. The condition of it in this natural form is gaseous. It belongs to the group of noble gas. The atomic number of this element is 10.It was discovered by William Ramsay and Morris Travers in London, England, in the year 1898 by the installments distillation of the liquid air.",
+	"answer": "Neon"
+},
+{
+	"title": "It has high malleability and ductility and also it has the highest know electrical and thermal conductivity. It is one of the seven metals known since antiquity. It has a shiny appearance, although it tarnishes easily. It is solid at room temperature. It is natural. It's grey. It belongs to block \"d\" in the periodic table. It was discovered by the Portuguese Juan Díaz de Solís in 1516. It belongs to the transition metal. It is used in jewelry.",
+	"answer": "Silver"
+},
+{
+	"title": "It is a chemical element of the periodic table, his atomic number is 14, is situated in the 14th group. It represents more than a quarter of the earth's crust and is the second most abundant element behind the oxygen. It transmits more than 95% of the wavelengths of infrared radiation. His properties are between carbon and germanium. His crystaline form is very hard and very soluble and has a metallic luster and grayish color.",
+	"answer": "Silicium"
+},
+{
+	"title": "It is the lightest pnictogen and it belongs to group p, and at room temperature it is a gas. It's transparent and odorless. On Earth, the element forms about 78% of Earth's atmosphere. The element was discovered as a separable component of air, by Scottish physician Daniel Rutherford in 1772. It has 7 protons and its atomic weight is 14. It's a gas then it is a nonmetal.",
+	"answer": "Nitrogen"
+},
+{
+	"title": "It is a ferromagnetic metal, a transition metal and has a bluish-white color. Metallic cobalt is commonly composed of a mixture of two allotropic forms hexagonal and cubic face centered crystal structures being between the two transition temperatures of 722K or 449°C. It's a chemical element with atomic number 27 and symbol colocated in group 9 of the transition metals. This has very similar characteristics to iron and nickel elements.",
+	"answer": "Cobalt"
+},
+{
+	"title": "The element used in nuclear power stations to produce energy. It has atomic number 92. It is a silvery-white metal in the actinide series. It has the second highest atomic weight in the primordially occurring elements. In nature it is found in different isotopes, and decays slowly by emitting alpha particles. It was discovered by Martin Heinrich Klaproth in 1789.",
+	"answer": "Uranium"
+},
+{
+	"title": "This element is present in milk. It has atomic number 20, belongs to the group of alkaline earth metal (soft metals). It is the fifth element in order of abundance in the earth's crust It reacts with water.",
+	"answer": "Calcium"
+},
+{
+	"title": "This element was discovered by the Swedish chemist Axel Fredrik Cronstedt. It is a hard, corrosion resistant metal. It is alloyed with other metals to improve their strength and resistance to corrosion. At room temperature it is solid and it's white. It's a natural element and its number of protons is 28.",
+	"answer": "Nickel"
+},
+{
+	"title": ""It's a soft metal, dense, ductile and malleable. It's white but it becomes dark gray when it comes in contact with air. It's both artificial and natural. At room temperature it's solid. In its nucleus there are 82 protons. It was discovered by Egyptians in 1550 BC",
+	"answer": "Lead"
+},
+{
+	"title": "It is a hard metal, shiny, steel gray; it can be easily polished, very resistant to corrosion. It is solid at room temperature. It is natural and not artificial. Atomic number 24. It was discovered by Johann Lehmann in 1761.",
+	"answer": "Chromium"
+},
+{
+	"title": "It is present in most of the minerals. It was not until the late 1800s that the element was isolated. It is a dopant in some types of glass in lasers and other optoelectronic devices. It was isolated in 1901 and is named after the continent of Europe.",
+	"answer": "Europium"
+},
+{
+	"title": "The first evidence of it was observed on August 18th, 1868 as a bright yellow line with a wavelength of 587.49 nanometers in the spectrum of the chromosphere of the Sun. It is a colorless, odorless, tasteless, non-toxic, inert, nonatomic gas, the first in the noble gas group of the periodic table. The boiling and melting points are the lowest among all the elements.",
+	"answer": "Helium"
+},
+{
+	"title": "Its production has greatly increased since the end of World War II. Worldwide identified reserves in 2008 were estimated by the US Geological Survey (USGS) as 13 million tons. It is widely distributed on Earth, it does not naturally occur in elemental form due to its high reactivity. It is a soft, silver-white metal belonging to the alkali metal group of chemical elements.",
+	"answer": "Lithium"
+},
+{
+	"title": "It is by mass the most common element on Earth, forming much of the outer and inner core. It is the fourth most common element in the Earth's crust. Like other group 8 elements, it exists in a wide range of oxidation states. This element plays an important role in biology, forming complexes with molecular oxygen in hemoglobin and myoglobin.",
+	"answer": "Iron"
+},
+{
+	"title": "It's remarkable for the metal's low density and its ability to resist corrosion through the phenomenon of passivation. It is a relatively soft, durable, lightweight, ductile and malleable metal with color ranging from silvery to dull gray, depending on the surface's roughness.",
+	"answer": "Aluminium"
+},
+{
+	"title": "It was first isolated from potash, the ashes of plants, from which its name is derived. It's ions are necessarry fir the functioning of all living cells. It is the second least dense metal after lithium.",
+	"answer": "Potassium"
+},
+{
+	"title": "It is not found free in nature, but it is widely distributed in many minerals. In 2012, thus USGS estimated 71 billion tons of world reserves. It is a chemical element with symbol P.",
+	"answer": "Phosphorus"
+},
+{
+	"title": "It is the lightest halogen and exists as a highly toxic pale yellow diatomic gas in standard conditions. This element ranks 24th in universal abundance and 13th in terrestrial abundance. It combines with metals, nonmetals, metalloids and most noble gases.",
+	"answer": "Fluorine"
+},
+{
+	"title": "It is created through stellar nucleosynthesis and is a relatively rare element in the universe. It is a divalent element which occurs naturally only in combination with other elements in minerals. As a free element it is a steel-gray, strong, lightweight and brittle alkaline earth metal.",
+	"answer": "Berylium"
 }
 
 ]
