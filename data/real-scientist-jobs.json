@@ -49,6 +49,191 @@
     "title": "I’m responsible for helping people taking care of the health of animals.  Cows are remarkable creatures. They’ve been part of human culture for thousands of years. There are cows everywhere except Antarctica. My job is to examine their eyes, their ears and their skin. Who am I?",
     "choices": ["Surgeon","Cow vet","Animal seller","Neurologist"],
     "answer": 1
+},
+{
+	"title": "I work with the Gemini telescope, a powerful piece of scientific equipment. If you want to practice my job, you have to be passionate about astronomy. Every day I see the stars and the galaxies for my job. And to conclude I often work at night. Who am I?",
+	"choices": ["Galactic Astronomer","Space Research Scientist","NASA JPL Researcher","Solar Vehicle Engineer"],
+	"answer": 0
+},
+{
+	"title": "I study living organisms. In my job there are several research programs so with several questions like: the behavior of animals, the communication between animals or their natural environment. I work with a team which helps me a lot. So who am I?",
+	"choices": ["biologist","neurobiologist","primate scientist","mud scientist"],
+	"answer": 0
+},
+{
+    "title": "My job consists in amusing children. Every boy has already played this type of game. Every day I work with professionals to have the most precise game as possible. What's my job?",
+    "choices": ["Neurobiologist","Cow vet","Game Designer","Space Research Scientist"],
+    "answer": 2
+},
+{
+    "title": "I study humans behavior and adaptation in space with no gravity during long space flights. I study muscles, bones and the human brain. I use many machines and experiments (air plane 0 G, virtual reality simulator) to better adapt astronauts to their environment. Who am I?",
+    "choices": ["Space research Scientist","Astronaut","Aeronautical engineer","Medium"],
+    "answer": 0
+},
+{
+    "title": "My job is concerned with the replacement of damaged and generate joints with prosthetic device. I am specialized in the treatment of fractures. My job is to help and take care of sportsmen.",
+    "choices": ["astrologist","astronaut","orgopedic surgeon","cow vet"],
+    "answer": 2
+},
+{
+	"title": "I carry out research for Green Giant vegetables, I extract out chemical substances which are in plants because theyr're essential for our body. My specific focus is to look how and why vegetables contain molecules that can help to protect us against several forms of chronic diseases",
+	"choices": ["Physicist","Vegetabiolist","Food scientist","Oncologist"],
+	"answer": 2
+},
+{
+	"title": "I study various birds such a parrots, canaries and other song birds. Songs birds have fascinating behaviours. My research tells me how bird brains work and that let me learn their complex behaviours. It's like a language.First I record their melodies and then in my lab I try to reproduce their sounds with my computer. I study what part of brain animals use to communicate with each other. I need to be inventive, creative and I try to understand how nature works and discovering things which had never discovered before. Who am I?",
+	"choices": ["Biologist","Bird vet","Neurobiologist","Bird singer"],
+	"answer": 2
+},
+{
+	"title": "My job is to go look for fossils. We look for pieces of fossils like small bones to find bigger ones. A bone is very fragile so to get it out of the ground, we use a process called a field jacket. We can then bring it back to the museum for cleaning. We study the past to learn about the present or the future. Who am I?",
+	"choices": ["Archeologist","Paleontologist","Historian","Treasure hunter"],
+	"answer": 1
+},
+{
+	"title": "In my job, I often work with the police and the FBI. My job consists in finding clues in little objects left behind by a criminal. I can use machines which can reveal some chemical substances in objects.",
+	"choices": ["Criminalist","Cow Vet","Entomologist","Designer"],
+	"answer": 0
+},
+{
+	"title": "I make technological device to treat the human body. I design tiny, nano-sized capsules to transport medicine in the body to the exact spot it is needed. I work in a laboratory with my students.",
+	"choices": ["biomdedical designer","biomedical engineer","medical modeler","physician"],
+	"answer": 1
+},
+{
+	"title": "I make a sketch of the bicycle helmets and then I make the bicycle helmets moulds and for prove his resistance I test how well their helmets survive a crash, if they stay put on a kid's head, and how they stand up to sun and snow.",
+	"choices": ["Motorcycle engineer","Design tester","Hurricane huntress","Electrical engineer"],
+	"answer": 1
+},
+{
+	"title": "I use a virtual bat, which is a technology that mimics real bat sounds and calls. This tool lets her track the Mexican Free-Tailed Bat, and discover how these fuzzy fliers can help limit the insect population and ultimately assist south Texas farmers.",
+	"choices": ["Biologist and Dog Handler","Biologist","Entomologist","Robotic Life Scientist"],
+	"answer": 1
+},
+{
+	"title": "My main job is here working with information that we have collected about hurricanes. We basically study how is a hurricane started. We are trying how predict them.",
+	"choices": ["Food Scientist","Hurricane Researcher","Hurricane Huntress","Web developer"],
+	"answer": 2
+},
+{
+	"title": "When I was child I was very afraid of the ocean but when I grow up I realized I did not have to be afraid of the ocean. Since high school I wanted to be a science. I love the animals. Now I work in a aquarium in Minnesota and I study the KG octopus at Underwater Adventures in the Mall of America.",
+	"choices": ["Marine Biologist","Ocean Scientist","Aquatic Biologist","Whale Scientist"],
+	"answer": 0
+},
+{
+	"title": "I work with different types of dogs. I train them, in different ways (depending on their breed) and help people when they're in danger. I like my job because I'm able to save lives.",
+	"choices": ["Dog handler","Wildlife Biologist","Criminologist","Cow vet"],
+	"answer": 0
+},
+{
+	"title": "I work with dogs and analize animal poos. In the video, my partner, my dog and I look for bear poos to see if these animals live around there. To train these dogs, I put some poo in a box so the dog can get used to the smell and then track it.",
+	"choices": ["Dog handler","Wildlife Biologist","Criminologist","Cow vet"],
+	"answer": 1
+},
+{
+	"title": "I take care of the environment, I create things using parts from plants and trees. Recently, I designed and made a \"green\" skateboard using soybeans and extracting the proteins. It is sold by Comet Skateboards. The skateboard is like the others, work just as well as regular ones,but the 'green' skateboard is biodegradable and is good because it helps to keep the environment in a good condition.",
+	"choices": ["Motorcycle Engineer","Eco-friendly materials scientist","Aquatic Biologist","Wind Research Assistant"],
+	"answer": 1
+},
+{
+	"title": "I train my dog \"Wicket\" to find poop of black bear, grizzly bear, wolf, and mountain lion scat in the area surrounding Yellowstone Park. This research helps scientists analyze if carnivores are living in the area.",
+	"choices": ["Dog handler and biologist","Eco-friendly materials scientist","Wildlife biologist","Space research scientist"],
+	"answer": 0
+},
+{
+	"title": "I design or develop technology solutions to social, industrial and economic needs. I first identify and understand the most significant obstacles to do a good design. I use my knowledge in science, mathematics, physics and my experience to find the best solutions to the specific problems. I always test my designs before producing the product. Therefore I use  prototypes, scale models, simulations, destructive tests and tests of strength. Trials check if the artifacts will work as planned.",
+	"choices": ["Designer","Inventor","Engineer","Robotic Life scientist"],
+	"answer": 2
+},
+{
+	"title": "I am a scientist that study what amount of water has a stone, what it can made and what are they made of. The best part of it is finding stones, I spend a lot of time in the outside like the beach, my family and friends help me with my job finding stones and after I study it. I think it is interesting know how the earth is formed. I love outdoor sports like skydive, bungee jumping and climbing.",
+	"choices": ["Mineralogist","Volcanologist","Dog handler","Marine biologist"],
+	"answer": 0
+},
+{
+	"title": "I dedicate myself to a field of engineering that deals with the study and application of electricity, electronics, and electromagnetism.",
+	"choices": ["Robotic Soccer Scientist","Research Scientist","Bioengineer","Electrical Engineer"],
+	"answer": 3
+},
+{
+	"title": "I'm an artificial intelligence researcher that programs small robot dogs to increase thair learning abilities. It's a great job! At this moment my team is using artificial intelligence to make robots \"smarter\".",
+	"choices": ["Robotic Soccer Scientist","Research Scientist","Bioengineer","Medical Modeler"],
+	"answer": 0
+},
+{
+	"title": "I exam how extreme environments, affect astronauts' bodies in space. Then I develop clothing that keeps space explorers comfortable as they travel through new frontiers. I´m working with the International Space Station and Mars exploration team.",
+	"choices": ["Robotic Life Scientist","Bioengineer","Space Suit Researcher","Volcano Scientist"],
+	"answer": 2
+},
+{
+	"title": "I love math classes. I enjoy mathematical challenges. Along with my math skills, I use the latest cool computer programs to dream up the safest, fastest, and best designs for powerful « two wheels» transportation.",
+	"choices": ["Robotic Life Scientist","Motorcycle Engineer","Space Suit Researcher","Nanocar Engineer"],
+	"answer": 1
+},
+{
+	"title": "My first work was called Kismet it had an incredible expressive face. Now I'm working on a project that is all about character and peronnality. Creating artificial feelings with technology is my work. I believe this will contribute to a better quality of life for everyone.",
+	"choices": ["Robotic Life Scientist","Bioengineer","Space Suit Researcher","Nanocar Engineer"],
+	"answer": 0
+},
+{
+	"title": "I love the human body. I use different kinds of plastic to mold arms, legs, and other body parts. In my job I combine art and science and the result can help a lot of people. My work can be found in you  biology class!!!",
+	"choices": ["Robotic Life Scientist","Bioengineer","Medical Modeler","Doctor"],
+	"answer": 2
+},
+{
+	"title": "I love nature. I love the ocean. I rescue a lot of marine life that are caught in fishing lines or accidentally are hit by boats. I love an animal that is from the family of cetacean. They are protected by international law. This animals can be as large as 45 tons.",
+	"choices": ["Whale Scientist","Dolphin Scientist","Ocean Researcher","Nanocar Engineer"],
+	"answer": 0
+},
+{
+	"title": "I studied how fish swim through the water. Because it's difficult to work with real fish, I work with a mechanical fish that moves through the water. I would like to find efficient new ways to get boats, ships and submarines moving in a sustainable way.",
+	"choices": ["Whale Scientist","Dolphin Scientist","Ocean Scientist","Nanocar Engineer"],
+	"answer": 2
+},
+{
+	"title": "I´m interested in weather phenomena. I´m specialized in the observation and physical understanding of weather phenomena. I have skills in math and physics to explain weather phenomena.",
+    "choices": ["Meteorologist","Research Scientist","Ocean Researcher","Engineer"],
+    "answer": 0
+},
+{
+	"title": "I engineer the smallest “transportation” in the world. They are so small, about 20,000 of them could be parked side-by-side across the diameter of a single hair. It is a challenge to make this objects work!",
+    "choices": ["Meteorologist","NASA JPL Engineer","Research Scientist","Nanocar Engineer"],
+    "answer": 3
+},
+{
+	"title": "I love extreme weather phenomena. I have to collect information in a very dangerous place known as the “eye”. My work is very important because it can save lives.",
+    "choices": ["Meteorologist","Research Scientist","Hurricane Researcher","Medical Modeler"],
+    "answer": 2
+},
+{
+    "title": "I study the history of rocks. I´m interested in studies of the rupture   in the crust of our planet. So we can know, for example, more about the magma chamber below the surface.",
+    "choices": ["Meteorologist","Volcano Scientist","Hurricane Researcher","Medical Modeler"],
+    "answer": 1
+},
+{
+    "title": "I´m an engineer who is building a robot that can melt through the thick ice of a frozen planet or moon. A cryobot.",
+    "choices": ["Robotic Life Engineer","Volcano Scientist","NASA JPL Researcher","Nanocar Engineer"],
+    "answer": 2
+},
+{
+    "title": "I´m an aquarist and elasmobranch expert. I love this job because I get to scuba dive often and handle animals from a group of fish characterized by a cartilaginous skeleton.",
+    "choices": ["Whale Scientist","Dolphin Scientist","Ocean Researcher","Shark Scientist"],
+    "answer": 3
+},
+{
+    "title": "I do a lot of things. I designed a sign language translator glove that works by sensing the hand movements. I´m always thinking in new things to build using my skills in technology and science. What will be my next work?",
+    "choices": ["Engineer","Inventor","Researcher","Doctor"],
+    "answer": 1
+},
+{
+    "title": "I´m specialized in seating. I helped develop an office chair, using motion measurement devices to determine the most comfortable and supportive seating. This work is being used in automobiles and wheelchairs to improve the quality of life.",
+    "choices": ["Meteorologist","Research Scientist","Bioengineer","Medical Modeler"],
+    "answer": 2
+},
+{
+    "title": "I dedicate myself to several fields of research. At the moment I design mobile robots that function without the help of humans.",
+    "choices": ["Meteorologist","Research Scientist","Doctor","Medical Modeler"],
+    "answer": 1
 }
 
 ]
