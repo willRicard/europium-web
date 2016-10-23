@@ -93,7 +93,8 @@ io.on('connection', (socket) => {
 	});
 });
 
-server.listen(process.env.PORT, () => {
+const port = process.env.PORT || 8080;
+server.listen(port, () => {
 	console.log('Setup took: ' + (+Date.now() - startTime) + ' ms.');
-	console.log('Ok - Http Port ' + process.env.PORT);
+	console.log('Ok - HTTP Port ' + port);
 });
